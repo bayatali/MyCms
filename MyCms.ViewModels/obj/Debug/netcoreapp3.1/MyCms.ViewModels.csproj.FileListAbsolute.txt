@@ -1,0 +1,9 @@
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\bin\Debug\netcoreapp3.1\MyCms.ViewModels.deps.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\bin\Debug\netcoreapp3.1\MyCms.ViewModels.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\bin\Debug\netcoreapp3.1\MyCms.ViewModels.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp3.1\MyCms.ViewModels.csproj.CoreCompileInputs.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp3.1\MyCms.ViewModels.AssemblyInfoInputs.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp3.1\MyCms.ViewModels.AssemblyInfo.cs
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp3.1\MyCms.ViewModels.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp3.1\MyCms.ViewModels.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.ViewModels\obj\Debug\netcoreapp3.1\MyCms.ViewModels.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\bin\Debug\netcoreapp3.1\MyCms.DataLayer.deps.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\bin\Debug\netcoreapp3.1\MyCms.DataLayer.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\bin\Debug\netcoreapp3.1\MyCms.DataLayer.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.csprojAssemblyReference.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.AssemblyInfoInputs.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.AssemblyInfo.cs
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\bin\Debug\netcoreapp3.1\MyCms.DomainClasses.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\bin\Debug\netcoreapp3.1\MyCms.DomainClasses.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.csproj.CopyComplete
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\bin\Debug\netcoreapp3.1\MyCms.DataLayer.runtimeconfig.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\bin\Debug\netcoreapp3.1\MyCms.DataLayer.runtimeconfig.dev.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.genruntimeconfig.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.DataLayer\obj\Debug\netcoreapp3.1\MyCms.DataLayer.csproj.CoreCompileInputs.cache

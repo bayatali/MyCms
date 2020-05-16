@@ -1,0 +1,17 @@
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.Services.deps.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.Services.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.Services.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.AssemblyInfoInputs.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.AssemblyInfo.cs
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.csprojAssemblyReference.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.Services.runtimeconfig.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.Services.runtimeconfig.dev.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.DataLayer.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.DomainClasses.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.DataLayer.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\bin\Debug\netcoreapp3.1\MyCms.DomainClasses.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.csproj.CoreCompileInputs.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.csproj.CopyComplete
+F:\testDotNetCore\sesion17\MyCms\MyCms.Services\obj\Debug\netcoreapp3.1\MyCms.Services.genruntimeconfig.cache

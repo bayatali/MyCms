@@ -1,0 +1,9 @@
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\bin\Debug\netcoreapp3.1\MyCms.DomainClasses.deps.json
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\bin\Debug\netcoreapp3.1\MyCms.DomainClasses.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\bin\Debug\netcoreapp3.1\MyCms.DomainClasses.pdb
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp3.1\MyCms.DomainClasses.csprojAssemblyReference.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp3.1\MyCms.DomainClasses.csproj.CoreCompileInputs.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp3.1\MyCms.DomainClasses.AssemblyInfoInputs.cache
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp3.1\MyCms.DomainClasses.AssemblyInfo.cs
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp3.1\MyCms.DomainClasses.dll
+F:\testDotNetCore\sesion17\MyCms\MyCms.DomainClasses\obj\Debug\netcoreapp3.1\MyCms.DomainClasses.pdb

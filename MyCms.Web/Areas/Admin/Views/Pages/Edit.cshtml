@@ -1,0 +1,73 @@
+﻿@model MyCms.DomainClasses.Page.Page
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Page</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="PageID" />
+            <div class="form-group">
+                <label asp-for="GroupID" class="control-label"></label>
+                <input asp-for="GroupID" class="form-control" />
+                <span asp-validation-for="GroupID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PageTitle" class="control-label"></label>
+                <input asp-for="PageTitle" class="form-control" />
+                <span asp-validation-for="PageTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortDescription" class="control-label"></label>
+                <input asp-for="ShortDescription" class="form-control" />
+                <span asp-validation-for="ShortDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PageText" class="control-label"></label>
+                <input asp-for="PageText" class="form-control" />
+                <span asp-validation-for="PageText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PageVisit" class="control-label"></label>
+                <input asp-for="PageVisit" class="form-control" />
+                <span asp-validation-for="PageVisit" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageName" class="control-label"></label>
+                <input asp-for="ImageName" class="form-control" />
+                <span asp-validation-for="ImageName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PageTags" class="control-label"></label>
+                <input asp-for="PageTags" class="form-control" />
+                <span asp-validation-for="PageTags" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="ShowInSlider" /> @Html.DisplayNameFor(model => model.ShowInSlider)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreateDate" class="control-label"></label>
+                <input asp-for="CreateDate" class="form-control" />
+                <span asp-validation-for="CreateDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
